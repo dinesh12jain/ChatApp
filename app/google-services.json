@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "130478892208",
+    "firebase_url": "https://chatapp-f89b2.firebaseio.com",
+    "project_id": "chatapp-f89b2",
+    "storage_bucket": "chatapp-f89b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130478892208:android:de3262e858143e25",
+        "android_client_info": {
+          "package_name": "com.example.ddine.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130478892208-21pqrjatidv52hp6tcosl1pse7kbtsbl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "130478892208-21pqrjatidv52hp6tcosl1pse7kbtsbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAURhqa1hXkq924xNFVg5lUucaxwetqaxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
